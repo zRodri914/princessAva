@@ -1,0 +1,62 @@
+/* Estilo para el encabezado */
+header {
+    background-color: #ffbbd7; /* Rosa */
+    padding: 20px 0;
+}
+
+.navbar-brand {
+    color: #8a2be2; /* Violeta */
+}
+
+.navbar-toggler-icon {
+    color: #8a2be2; /* Violeta */
+}
+
+.navbar-nav .nav-link {
+    color: #8a2be2; /* Violeta */
+}
+
+/* Estilo para las secciones */
+section {
+    background-color: #ffbbd7; /* Rosa */
+    padding: 50px 0;
+}
+
+.section-title {
+    color: #8a2be2; /* Violeta */
+}
+
+/* Estilo para el footer */
+footer {
+    background-color: #ffbbd7; /* Rosa */
+    padding: 20px 0;
+    color: #8a2be2; /* Violeta */
+}
+
+/* Otros estilos */
+.icono-pequeño {
+    background-color: #8a2be2; /* Violeta */
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    color: #fff; /* Texto blanco */
+}
+
+.servicio-fila {
+    justify-content: space-between;
+}
+
+/* Cambiar el color de los enlaces colapsables */
+.collapsible-link {
+    color: #8a2be2; /* Violeta */
+}
+
+/* Centrar texto en los botones */
+.navbar-toggler {
+    text-align: center;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+    display: inline-block;
+    vertical-align: middle;
+}
